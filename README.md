@@ -15,10 +15,16 @@ This repository provides hands-on practice and examples for using Hugging Face t
 2. Install the required dependencies (see individual folders or notebooks for requirements).
 3. Explore the examples and tutorials to get started with Hugging Face.
 
+
 ## Resources
 - [Hugging Face Documentation](https://huggingface.co/docs)
 - [Transformers Library](https://github.com/huggingface/transformers)
 - [Hugging Face Course](https://huggingface.co/course)
+- [Project Documentation and Notes (DOC.md)](./DOC.md)
 
 ## License
 This repository is for educational purposes.
+
+
+
+
