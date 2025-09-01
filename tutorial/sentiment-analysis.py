@@ -1,4 +1,8 @@
 # Please select appropriate GPU while running this notebook
+# Confidence score indicates the model's certainty about its prediction.
+# Value of confidence score ranges from 0 to 1, with 1 being the highest certainty.
+# Higher confidence scores suggest that the model is more certain about its prediction, while lower scores indicate less certainty.
+# Values of sentiment labels can be either POSITIVE or NEGATIVE .
 
 # pip install transformer --user
 # pip install torch --user
